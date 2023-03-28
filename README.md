@@ -21,9 +21,8 @@ Conhecimento Básico em Apache;
 Conhecimento Básico em HTML;
 Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
-Rodando a aplicação
+# Rodando a aplicação Git Bash
 
-# Git Bash
 # Iniciar o container
 $ docker-compose up
 
